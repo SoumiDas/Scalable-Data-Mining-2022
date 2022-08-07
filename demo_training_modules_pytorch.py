@@ -1,3 +1,5 @@
+#Adapted from http://seba1511.net/tutorials/beginner/examples_nn/two_layer_net_module.html
+
 import torch
 from torch.autograd import Variable
 
